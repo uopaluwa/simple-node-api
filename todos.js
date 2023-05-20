@@ -1,14 +1,14 @@
 module.exports = [
   {
     id: 1,
-    task: "Fix Sink"
+    task: "Add dummy api code"
   },
   {
     id: 2,
-    task: "Buy Groceries"
+    task: "Setup CI/CD pipeline on AWS"
   },
   {
     id: 3,
-    task: "Wash the dishes"
+    task: "Test the pipeline"
   }
 ];
